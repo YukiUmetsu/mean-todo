@@ -1,0 +1,12 @@
+{
+  "name": "mean-todo",
+  "version": "1.0.0",
+  "description": "todo app with mean stack",
+  "private": true,
+  "main": "src/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
